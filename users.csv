@@ -6,7 +6,7 @@ id,parentId,name,lastName,position,image,departmans
 104,103,Bruce,Ernst,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait18.png,Development
 106,103,Valli,Pataballa,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait86.png,Development
 107,103,Diana,Lorentz,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait89.png,Development
-108,101,Nancy,Greenberg,Finance Manager,https://bumbeishvili.github.io/avatars/avatars/portrait61.png,Finance
+108,101,ARGE,Arge Departmanı,https://bumbeishvili.github.io/avatars/avatars/portrait61.png,Finance
 109,108,Daniel,Faviet,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait20.png,Finance
 110,108,John,Chen,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait21.png,Finance
 111,108,Ismael,Sciarra,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait22.png,Finance
@@ -15,9 +15,5 @@ id,parentId,name,lastName,position,image,departmans
 114,100,Den,Raphaely,Purchasing Manager,https://bumbeishvili.github.io/avatars/avatars/portrait24.png,Purchasing
 115,114,Alexander,Khoo,Purchasing Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait26.png,Purchasing
 116,114,Shelli,Baida,Purchasing Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait2.png,Purchasing
-117,101,Nancy,Greenberg,Finance Manager,https://bumbeishvili.github.io/avatars/avatars/portrait61.png,Finance
-118,101,Nancy,Greenberg,Finance Manager,https://bumbeishvili.github.io/avatars/avatars/portrait61.png,Finance
-119,101,Nancy,Greenberg,Finance Manager,https://bumbeishvili.github.io/avatars/avatars/portrait61.png,Finance
-120,101,Nancy,Greenberg,Finance Manager,https://bumbeishvili.github.io/avatars/avatars/portrait61.png,Finance
-121,101,Nancy,Greenberg,Finance Manager,https://bumbeishvili.github.io/avatars/avatars/portrait61.png,Finance
-122,101,Nancy,Greenberg,Finance Manager,https://bumbeishvili.github.io/avatars/avatars/portrait61.png,Finance
+117,101,KVISION,KVision Yazılım A.Ş,Finance Manager,https://bumbeishvili.github.io/avatars/avatars/portrait61.png,Finance
+
