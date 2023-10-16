@@ -1,6 +1,6 @@
 id,parentId,name,lastName,position,image,departman
-100,,OSMAN MURAT,King,Mobile Application Developer,https://bumbeishvili.github.io/avatars/avatars/portrait12.png,Development
-101,100,Neena,Kochhar,Administration Vice President,https://bumbeishvili.github.io/avatars/avatars/portrait85.png,Administration
+100,,Alihan,KIZILKAYA,Genel Müdür,https://bumbeishvili.github.io/avatars/avatars/portrait12.png,Development
+101,100,Fatma,Kurt,Genel Müdür Yardımcısı,https://bumbeishvili.github.io/avatars/avatars/portrait85.png,Administration
 102,100,Lex,De Haan,Administration Vice President,https://bumbeishvili.github.io/avatars/avatars/portrait16.png,Administration
 103,102,Alexander,Hunold,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait17.png,Development
 104,103,Bruce,Ernst,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait18.png,Development
