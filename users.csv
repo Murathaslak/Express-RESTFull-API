@@ -1,17 +1,17 @@
-id,parentId,name,lastName,position,image
-100,,OSMAN MURAT,King,Mobile Application Developer,https://bumbeishvili.github.io/avatars/avatars/portrait12.png,
-101,100,Neena,Kochhar,Administration Vice President,https://bumbeishvili.github.io/avatars/avatars/portrait85.png,
-102,100,Lex,De Haan,Administration Vice President,https://bumbeishvili.github.io/avatars/avatars/portrait16.png,
-103,102,Alexander,Hunold,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait17.png,
-104,103,Bruce,Ernst,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait18.png,
-106,103,Valli,Pataballa,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait86.png,
-107,103,Diana,Lorentz,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait89.png,
-108,101,Nancy,Greenberg,Finance Manager,https://bumbeishvili.github.io/avatars/avatars/portrait61.png
-109,108,Daniel,Faviet,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait20.png,
-110,108,John,Chen,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait21.png,
-111,108,Ismael,Sciarra,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait22.png,
-112,108,Jose Manuel,Urman,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait23.png,
-113,108,Luis,Popp,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait1.png,
-114,100,Den,Raphaely,Purchasing Manager,https://bumbeishvili.github.io/avatars/avatars/portrait24.png,
-115,114,Alexander,Khoo,Purchasing Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait26.png,
-116,114,Shelli,Baida,Purchasing Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait2.png,
+id,parentId,name,lastName,position,image,departman
+100,,OSMAN MURAT,King,Mobile Application Developer,https://bumbeishvili.github.io/avatars/avatars/portrait12.png,Development
+101,100,Neena,Kochhar,Administration Vice President,https://bumbeishvili.github.io/avatars/avatars/portrait85.png,Administration
+102,100,Lex,De Haan,Administration Vice President,https://bumbeishvili.github.io/avatars/avatars/portrait16.png,Administration
+103,102,Alexander,Hunold,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait17.png,Development
+104,103,Bruce,Ernst,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait18.png,Development
+106,103,Valli,Pataballa,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait86.png,Development
+107,103,Diana,Lorentz,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait89.png,Development
+108,101,Nancy,Greenberg,Finance Manager,https://bumbeishvili.github.io/avatars/avatars/portrait61.png,Finance
+109,108,Daniel,Faviet,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait20.png,Finance
+110,108,John,Chen,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait21.png,Finance
+111,108,Ismael,Sciarra,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait22.png,Finance
+112,108,Jose Manuel,Urman,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait23.png,Finance
+113,108,Luis,Popp,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait1.png,Finance
+114,100,Den,Raphaely,Purchasing Manager,https://bumbeishvili.github.io/avatars/avatars/portrait24.png,Purchasing
+115,114,Alexander,Khoo,Purchasing Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait26.png,Purchasing
+116,114,Shelli,Baida,Purchasing Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait2.png,Purchasing
